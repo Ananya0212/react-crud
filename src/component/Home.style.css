@@ -1,0 +1,13 @@
+.article-header {
+    background-color: rgb(20, 44, 229);
+    color:rgb(243, 244, 244);
+    border: 3px solid transparent;
+    text-align: center;
+
+}
+
+.section-content {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 15px;
+}
